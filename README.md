@@ -1,4 +1,4 @@
-# 🕷️ Arachnophobia Project
+# ⚠️ Arachnophobia Project
 
 A Python-based project focused on exploring and analyzing **arachnophobia (fear of spiders)** through an interactive and technology-driven approach.
 
@@ -16,7 +16,7 @@ The main purpose of this project is to provide an interactive experience related
 
 The application focuses on:
 
-- 🕷️ Arachnophobia-themed interactions
+- ⚠️ Arachnophobia-themed interactions
 - 🧠 Exploring fear-related responses
 - 🖥️ Interactive Python-based application flow
 - 🎨 Visual and user-oriented elements
@@ -35,12 +35,11 @@ The project is primarily developed using:
 ## 📂 Project Structure
 
 ```text
-Arachnophobia/
+araknafobia/
 │
-├── main.py
-├── requirements.txt
 ├── README.md
-├── assets/
-│   └── ...
-└── src/
-    └── ...
+├── test.py
+├── test_2.py
+├── test_3y.py
+└── assets/
+    └── image_0001.jpeg
